@@ -1,0 +1,17 @@
+[
+  {
+    "position": 1,
+    "title": "Personalización",
+    "description": "Ofrecemos diseños únicos y atractivos, adaptados a las necesidades de cada cliente. Nuestro enfoque en la experiencia del usuario garantiza un sitio web agradable y efectivo, reflejando la identidad de la marca y atrayendo a más clientes."
+  },
+  {
+    "position": 2,
+    "title": "Calidad",
+    "description": "Construimos sitios web rápidos, seguros y optimizados para buscadores (SEO). Nuestros expertos en programación garantizan un rendimiento óptimo en todos los dispositivos, brindando una experiencia de usuario fluida y eficiente."
+  },
+  {
+    "position": 3,
+    "title": "Atención Personal",
+    "description": "Brindamos atención personalizada y rápida, respondiendo a las necesidades y preguntas de los clientes. Trabajamos de cerca con ellos para cumplir sus objetivos en el sitio web, con transparencia y honestidad en todo momento."
+  }
+]
